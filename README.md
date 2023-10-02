@@ -1,4 +1,4 @@
-# iOS 17 Available Locale Identifiers"nd"
+# iOS 17 Available Locale Identifiers"
 
 "nd"
 "gaa_GH"
