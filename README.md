@@ -1,6 +1,7 @@
 # iOS 17 Available Locale Identifiers
 
 "nd"
+
 "gaa_GH" 
 "es_GY"
 "bez_TZ"
