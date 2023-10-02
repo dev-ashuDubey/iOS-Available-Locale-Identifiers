@@ -1,1 +1,986 @@
-
+nds_DE,Low German (Germany)
+yav,Yangben
+ber,Amazigh
+cy_GB,Welsh (United Kingdom)
+es_US,Spanish (United States)
+en_LT,English (Lithuania)
+mer_KE,Meru (Kenya)
+th,Thai
+yrl_VE,Nheengatu (Venezuela)
+mid,Mandaic
+ber_Tfng_MA,"Amazigh (Tifinagh, Morocco)"
+mr_IN,Marathi (India)
+so_SO,Somali (Somalia)
+ast_ES,Asturian (Spain)
+vi,Vietnamese
+zh_Hant_HK,"Chinese, Traditional (Hong Kong)"
+ar_KW,Arabic (Kuwait)
+tr_CY,Turkish (Cyprus)
+bho,Bhojpuri
+vai_Vaii,Vai (Vai)
+az_Cyrl,Azerbaijani (Cyrillic)
+am_ET,Amharic (Ethiopia)
+cic_US,Chickasaw (United States)
+en_NG,English (Nigeria)
+it_SM,Italian (San Marino)
+fr_BI,French (Burundi)
+en_CO,English (Colombia)
+mt,Maltese
+en_SL,English (Sierra Leone)
+pt_GQ,Portuguese (Equatorial Guinea)
+ny,Nyanja
+fr_CF,French (Central African Republic)
+ki,Kikuyu
+en_SI,English (Slovenia)
+osa_US,Osage (United States)
+en_LS,English (Lesotho)
+en_SH,English (St. Helena)
+es_GQ,Spanish (Equatorial Guinea)
+fr_DZ,French (Algeria)
+en_ZA,English (South Africa)
+mg,Malagasy
+nr,South Ndebele
+fa,Persian
+ms_SG,Malay (Singapore)
+en_GU,English (Guam)
+ru_RU,Russian (Russia)
+en_VG,English (British Virgin Islands)
+uz_Latn_UZ,"Uzbek (Latin, Uzbekistan)"
+es_PR,Spanish (Puerto Rico)
+ewo_CM,Ewondo (Cameroon)
+lb_LU,Luxembourgish (Luxembourg)
+en_ER,English (Eritrea)
+mas_TZ,Masai (Tanzania)
+ebu_KE,Embu (Kenya)
+fy_NL,Western Frisian (Netherlands)
+sg_CF,Sango (Central African Republic)
+ff_Latn_LR,"Fula (Latin, Liberia)"
+os_RU,Ossetic (Russia)
+nd,North Ndebele
+pcm_NG,Nigerian Pidgin (Nigeria)
+pt_ST,Portuguese (São Tomé & Príncipe)
+en_GD,English (Grenada)
+sd,Sindhi
+kl,Kalaallisut
+en_MP,English (Northern Mariana Islands)
+hy,Armenian
+en_CV,English (Cape Verde)
+kk,Kazakh
+ar_TN,Arabic (Tunisia)
+fr_KM,French (Comoros)
+zh_Hans,"Chinese, Simplified"
+fr_CA,French (Canada)
+agq,Aghem
+es_003,Spanish (North America)
+kpe,Kpelle
+zh_Hans_HK,"Chinese, Simplified (Hong Kong)"
+en_NU,English (Niue)
+de,German
+az,Azerbaijani
+is_IS,Icelandic (Iceland)
+tzm,Central Atlas Tamazight
+pqm,Wolastoqey
+bm_ML,Bambara (Mali)
+en_HU,English (Hungary)
+en_CX,English (Christmas Island)
+smn,Inari Sami
+ar_LB,Arabic (Lebanon)
+kaj,Jju
+oc,Occitan
+ks_Aran_IN,"Kashmiri (Nastaliq, India)"
+ff,Fula
+en_EE,English (Estonia)
+ce,Chechen
+ta_LK,Tamil (Sri Lanka)
+bas_CM,Basaa (Cameroon)
+guz_KE,Gusii (Kenya)
+en_AI,English (Anguilla)
+ug_CN,Uyghur (China mainland)
+ar_AE,Arabic (United Arab Emirates)
+en_MV,English (Maldives)
+kde,Makonde
+ur_Arab_IN,"Urdu (Naskh, India)"
+sm,Samoan
+vai,Vai
+ksb,Shambala
+uk_UA,Ukrainian (Ukraine)
+ur,Urdu
+yue_Hans_CN,"Cantonese, Simplified (China mainland)"
+zgh_MA,"Tamazight, Standard Moroccan (Morocco)"
+de_CH,German (Switzerland)
+ar_QA,Arabic (Qatar)
+os,Ossetic
+en_MS,English (Montserrat)
+fr_MG,French (Madagascar)
+en_PH,English (Philippines)
+en_CK,English (Cook Islands)
+to_TO,Tongan (Tonga)
+ta_IN,Tamil (India)
+ckb_IR,"Kurdish, Sorani (Iran)"
+de_LU,German (Luxembourg)
+sw_KE,Swahili (Kenya)
+ha_GH,Hausa (Ghana)
+es,Spanish
+sm_AS,Samoan (American Samoa)
+zh_Hans_CN,"Chinese, Simplified (China mainland)"
+eo_001,Esperanto (world)
+luo_KE,Luo (Kenya)
+xog_UG,Soga (Uganda)
+yue,Cantonese
+en_FK,English (Falkland Islands)
+ks,Kashmiri
+en_PL,English (Poland)
+ak,Akan
+rej,Rejang
+tk,Turkmen
+en_SX,English (Sint Maarten)
+bm,Bambara
+io,Ido
+fr_TG,French (Togo)
+en_GH,English (Ghana)
+en_RU,English (Russia)
+fr_GP,French (Guadeloupe)
+ar_IQ,Arabic (Iraq)
+et,Estonian
+ba_RU,Bashkir (Russia)
+ar_YE,Arabic (Yemen)
+en_VU,English (Vanuatu)
+ru_UA,Russian (Ukraine)
+st_LS,Southern Sotho (Lesotho)
+en_AR,English (Argentina)
+sq_AL,Albanian (Albania)
+teo_KE,Teso (Kenya)
+rej_Rjng_ID,"Rejang (Rejang, Indonesia)"
+hi_IN,Hindi (India)
+en_MX,English (Mexico)
+ee_GH,Ewe (Ghana)
+uz,Uzbek
+wa,Walloon
+en_AS,English (American Samoa)
+fr_SC,French (Seychelles)
+fr_LU,French (Luxembourg)
+en_BM,English (Bermuda)
+en_RW,English (Rwanda)
+gn,Guarani
+sr_Cyrl_XK,"Serbian (Cyrillic, Kosovo)"
+tzm_MA,Central Atlas Tamazight (Morocco)
+ks_Deva,Kashmiri (Devanagari)
+ksf,Bafia
+en_DM,English (Dominica)
+dsb_DE,Lower Sorbian (Germany)
+as_IN,Assamese (India)
+kab_DZ,Kabyle (Algeria)
+az_Latn,Azerbaijani (Latin)
+tt,Tatar
+iu,Inuktitut
+sr_Cyrl_ME,"Serbian (Cyrillic, Montenegro)"
+ff_Latn_NE,"Fula (Latin, Niger)"
+mni_Beng,Manipuri (Bangla)
+gn_PY,Guarani (Paraguay)
+ff_Adlm_LR,"Fula (Adlam, Liberia)"
+de_AT,German (Austria)
+kw,Cornish
+bn,Bangla
+af_ZA,Afrikaans (South Africa)
+en_TZ,English (Tanzania)
+rn_BI,Rundi (Burundi)
+yo_BJ,Yoruba (Benin)
+sw_TZ,Swahili (Tanzania)
+da,Danish
+en_PK,English (Pakistan)
+yrl_BR,Nheengatu (Brazil)
+kok_IN,Konkani (India)
+ta_SG,Tamil (Singapore)
+nso,Northern Sotho
+af_NA,Afrikaans (Namibia)
+rw,Kinyarwanda
+lu_CD,Luba-Katanga (Congo - Kinshasa)
+es_IC,Spanish (Canary Islands)
+tig,Tigre
+rhg_Rohg_MM,"Rohingya (Hanifi, Myanmar [Burma])"
+pt_MO,Portuguese (Macao)
+ki_KE,Kikuyu (Kenya)
+pa_Aran_PK,"Punjabi (Nastaliq, Pakistan)"
+fi,Finnish
+es_GT,Spanish (Guatemala)
+ko,Korean
+jv,Javanese
+ky,Kyrgyz
+en_MH,English (Marshall Islands)
+jbo,Lojban
+en_BZ,English (Belize)
+nmg,Kwasio
+en_GG,English (Guernsey)
+ss_ZA,Swati (South Africa)
+rm_CH,Romansh (Switzerland)
+ig_NG,Igbo (Nigeria)
+pa_Guru,Punjabi (Gurmukhi)
+so,Somali
+sd_Arab,Sindhi (Arabic)
+sl,Slovenian
+uz_Arab_AF,"Uzbek (Arabic, Afghanistan)"
+fr_CD,French (Congo - Kinshasa)
+bg_BG,Bulgarian (Bulgaria)
+ks_Arab_IN,"Kashmiri (Naskh, India)"
+en_VI,English (U.S. Virgin Islands)
+fr_SN,French (Senegal)
+kkj,Kako
+en_AU,English (Australia)
+jmc_TZ,Machame (Tanzania)
+en_AL,English (Albania)
+sbp,Sangu
+ain,Ainu
+az_Latn_AZ,"Azerbaijani (Latin, Azerbaijan)"
+gsw_FR,Swiss German (France)
+yi_001,Yiddish (world)
+bs_Cyrl_BA,"Bosnian (Cyrillic, Bosnia & Herzegovina)"
+zu,Zulu
+de_DE,German (Germany)
+gv,Manx
+en_TV,English (Tuvalu)
+xh_ZA,Xhosa (South Africa)
+he,Hebrew
+it_CH,Italian (Switzerland)
+tg,Tajik
+el_GR,Greek (Greece)
+en_TR,English (Türkiye)
+sd_Deva,Sindhi (Devanagari)
+en_SG,English (Singapore)
+uz_Latn,Uzbek (Latin)
+zh_Hans_MO,"Chinese, Simplified (Macao)"
+ksb_TZ,Shambala (Tanzania)
+mgo,Metaʼ
+en_MO,English (Macao)
+seh,Sena
+lv,Latvian
+fr_HT,French (Haiti)
+en_BS,English (Bahamas)
+nnh_CM,Ngiemboon (Cameroon)
+fr_CM,French (Cameroon)
+dv,Dhivehi
+nb_NO,Norwegian Bokmål (Norway)
+es_VG,Spanish (British Virgin Islands)
+ccp_BD,Chakma (Bangladesh)
+sw_UG,Swahili (Uganda)
+en_SE,English (Sweden)
+cgg,Chiga
+km,Khmer
+tn_BW,Tswana (Botswana)
+ba,Bashkir
+ff_Latn_GM,"Fula (Latin, Gambia)"
+de_IT,German (Italy)
+hmn,Hmong
+ceb_PH,Cebuano (Philippines)
+teo_UG,Teso (Uganda)
+ms,Malay
+nn_NO,Norwegian Nynorsk (Norway)
+ii_CN,Liangshan Yi (China mainland)
+bem,Bemba
+se_SE,Northern Sami (Sweden)
+sw_CD,Swahili (Congo - Kinshasa)
+th_TH,Thai (Thailand)
+hr_HR,Croatian (Croatia)
+hu,Hungarian
+ml_IN,Malayalam (India)
+en_PW,English (Palau)
+naq_NA,Nama (Namibia)
+hi,Hindi
+se_FI,Northern Sami (Finland)
+en_LV,English (Latvia)
+si,Sinhala
+kab,Kabyle
+en_AT,English (Austria)
+en_PN,English (Pitcairn Islands)
+dav,Taita
+ur_Aran_IN,"Urdu (Nastaliq, India)"
+cgg_UG,Chiga (Uganda)
+id,Indonesian
+ff_Adlm_GN,"Fula (Adlam, Guinea)"
+ga,Irish
+sat,Santali
+trv,Taroko
+haw,Hawaiian
+pt_TL,Portuguese (Timor-Leste)
+qu,Quechua
+yo_NG,Yoruba (Nigeria)
+lg,Ganda
+mic,Mi'kmaw
+en_NA,English (Namibia)
+or_IN,Odia (India)
+lrc_IQ,Northern Luri (Iraq)
+dz,Dzongkha
+fo_DK,Faroese (Denmark)
+en_US,English (United States)
+sat_Deva,Santali (Devanagari)
+mgh_MZ,Makhuwa-Meetto (Mozambique)
+ses_ML,Koyraboro Senni (Mali)
+sk_SK,Slovak (Slovakia)
+en_FM,English (Micronesia)
+br,Breton
+ne,Nepali
+fr_MR,French (Mauritania)
+ia,Interlingua
+en_NL,English (Netherlands)
+ain_JP,Ainu (Japan)
+fil,Filipino
+jgo,Ngomba
+ga_GB,Irish (United Kingdom)
+es_CR,Spanish (Costa Rica)
+ru,Russian
+fr_FR,French (France)
+tt_RU,Tatar (Russia)
+es_BB,Spanish (Barbados)
+en_SA,English (Saudi Arabia)
+hsb,Upper Sorbian
+ff_Latn_CM,"Fula (Latin, Cameroon)"
+rm,Romansh
+oc_FR,Occitan (France)
+lrc_IR,Northern Luri (Iran)
+ta_MY,Tamil (Malaysia)
+en_DE,English (Germany)
+ta,Tamil
+kpe_LR,Kpelle (Liberia)
+es_EA,Spanish (Ceuta & Melilla)
+en_US_POSIX,"English (United States, Computer)"
+en_UG,English (Uganda)
+zh_Hant_JP,"Chinese, Traditional (Japan)"
+da_DK,Danish (Denmark)
+he_IL,Hebrew (Israel)
+sr_Cyrl,Serbian (Cyrillic)
+ar_TD,Arabic (Chad)
+asa_TZ,Asu (Tanzania)
+en_JE,English (Jersey)
+myv_RU,Erzya (Russia)
+chr,Cherokee
+nds_NL,Low German (Netherlands)
+fr_MF,French (St. Martin)
+oc_ES,Occitan (Spain)
+nl_SR,Dutch (Suriname)
+ar_KM,Arabic (Comoros)
+fr_NE,French (Niger)
+ber_Latn,Amazigh (Latin)
+mua_CM,Mundang (Cameroon)
+ve_ZA,Venda (South Africa)
+nl_CW,Dutch (Curaçao)
+uz_Cyrl_UZ,"Uzbek (Cyrillic, Uzbekistan)"
+sl_SI,Slovenian (Slovenia)
+gu_IN,Gujarati (India)
+ff_Latn_GH,"Fula (Latin, Ghana)"
+jbo_001,Lojban (world)
+kcg_NG,Tyap (Nigeria)
+en_GR,English (Greece)
+ms_Arab,Malay (Arabic)
+om,Oromo
+pa_Arab_PK,"Punjabi (Naskh, Pakistan)"
+en_LC,English (St. Lucia)
+en_KN,English (St. Kitts & Nevis)
+sq_XK,Albanian (Kosovo)
+lo,Lao
+ar_BH,Arabic (Bahrain)
+es_GY,Spanish (Guyana)
+ms_BN,Malay (Brunei)
+rw_RW,Kinyarwanda (Rwanda)
+kam_KE,Kamba (Kenya)
+ccp,Chakma
+ml,Malayalam
+es_KY,Spanish (Cayman Islands)
+ff_Adlm_SL,"Fula (Adlam, Sierra Leone)"
+en_GI,English (Gibraltar)
+es_419,Spanish (Latin America)
+ur_Aran_PK,"Urdu (Nastaliq, Pakistan)"
+dsb,Lower Sorbian
+lt,Lithuanian
+ms_Arab_BN,"Malay (Arabic, Brunei)"
+en_TC,English (Turks & Caicos Islands)
+se_NO,Northern Sami (Norway)
+es_CO,Spanish (Colombia)
+nl_SX,Dutch (Sint Maarten)
+luo,Luo
+wo_SN,Wolof (Senegal)
+ha_NG,Hausa (Nigeria)
+zgh,"Tamazight, Standard Moroccan"
+asa,Asu
+ast,Asturian
+bez,Bena
+es_KN,Spanish (St. Kitts & Nevis)
+nd_ZW,North Ndebele (Zimbabwe)
+qu_EC,Quechua (Ecuador)
+da_GL,Danish (Greenland)
+nyn,Nyankole
+zh_Hans_JP,"Chinese, Simplified (Japan)"
+luy,Luyia
+saq_KE,Samburu (Kenya)
+ko_KR,Korean (South Korea)
+ff_Latn_MR,"Fula (Latin, Mauritania)"
+shi_Tfng,Tachelhit (Tifinagh)
+nnp_IN,Wancho (India)
+ks_Arab,Kashmiri (Naskh)
+zh_Hant_TW,"Chinese, Traditional (Taiwan)"
+es_UY,Spanish (Uruguay)
+nl_AW,Dutch (Aruba)
+en_KE,English (Kenya)
+en_BN,English (Brunei)
+pcm,Nigerian Pidgin
+fr_PM,French (St. Pierre & Miquelon)
+es_GD,Spanish (Grenada)
+yav_CM,Yangben (Cameroon)
+zh_Hans_SG,"Chinese, Simplified (Singapore)"
+hy_AM,Armenian (Armenia)
+en_CM,English (Cameroon)
+fr_RW,French (Rwanda)
+fr_BF,French (Burkina Faso)
+os_GE,Ossetic (Georgia)
+cho_US,Choctaw (United States)
+vai_Latn_LR,"Vai (Latin, Liberia)"
+tn_ZA,Tswana (South Africa)
+kgp_BR,Kaingang (Brazil)
+es_HN,Spanish (Honduras)
+ff_Latn_SL,"Fula (Latin, Sierra Leone)"
+qu_BO,Quechua (Bolivia)
+en_GB,English (United Kingdom)
+dje,Zarma
+nl_BE,Dutch (Belgium)
+iu_CA,Inuktitut (Canada)
+ff_Adlm_BF,"Fula (Adlam, Burkina Faso)"
+ar_EG,Arabic (Egypt)
+fo_FO,Faroese (Faroe Islands)
+mfe_MU,Morisyen (Mauritius)
+es_ES,Spanish (Spain)
+dje_NE,Zarma (Niger)
+fr_BL,French (St. Barthélemy)
+en_NZ,English (New Zealand)
+rn,Rundi
+sm_WS,Samoan (Samoa)
+ff_Latn_SN,"Fula (Latin, Senegal)"
+lu,Luba-Katanga
+byn,Blin
+te,Telugu
+fr_MA,French (Morocco)
+ebu,Embu
+sr_Latn_ME,"Serbian (Latin, Montenegro)"
+ru_BY,Russian (Belarus)
+ar_MA,Arabic (Morocco)
+tr,Turkish
+en_ID,English (Indonesia)
+nqo,N’Ko
+ff_Adlm_GW,"Fula (Adlam, Guinea-Bissau)"
+shi_Latn_MA,"Tachelhit (Latin, Morocco)"
+sr_Latn_BA,"Serbian (Latin, Bosnia & Herzegovina)"
+te_IN,Telugu (India)
+en_MM,English (Myanmar [Burma])
+ar_IL,Arabic (Israel)
+en_WS,English (Samoa)
+be,Belarusian
+mg_MG,Malagasy (Madagascar)
+bs_Cyrl,Bosnian (Cyrillic)
+en_BB,English (Barbados)
+kn_IN,Kannada (India)
+inh,Ingush
+ak_GH,Akan (Ghana)
+ha,Hausa
+se,Northern Sami
+am,Amharic
+pt_MZ,Portuguese (Mozambique)
+dav_KE,Taita (Kenya)
+cv_RU,Chuvash (Russia)
+doi,Dogri
+ru_MD,Russian (Moldova)
+brx,Bodo
+es_VI,Spanish (U.S. Virgin Islands)
+kam,Kamba
+ln_CD,Lingala (Congo - Kinshasa)
+mt_MT,Maltese (Malta)
+lt_LT,Lithuanian (Lithuania)
+en_JM,English (Jamaica)
+mic_CA,Mi'kmaw (Canada)
+en_KI,English (Kiribati)
+st,Southern Sotho
+seh_MZ,Sena (Mozambique)
+yrl_CO,Nheengatu (Colombia)
+ff_Adlm_GH,"Fula (Adlam, Ghana)"
+lg_UG,Ganda (Uganda)
+apw_US,"Apache, Western (United States)"
+ksh,Colognian
+mas_KE,Masai (Kenya)
+en_UM,English (U.S. Outlying Islands)
+sw,Swahili
+ts_ZA,Tsonga (South Africa)
+ksh_DE,Colognian (Germany)
+ko_KP,Korean (North Korea)
+en_TO,English (Tonga)
+vun,Vunjo
+sn_ZW,Shona (Zimbabwe)
+xh,Xhosa
+fr_MQ,French (Martinique)
+nr_ZA,South Ndebele (South Africa)
+ff_Adlm_NE,"Fula (Adlam, Niger)"
+ur_Arab,Urdu (Naskh)
+en_AE,English (United Arab Emirates)
+fr_MU,French (Mauritius)
+sv,Swedish
+eu,Basque
+fr_SY,French (Syria)
+ky_KG,Kyrgyz (Kyrgyzstan)
+wae_CH,Walser (Switzerland)
+en_NF,English (Norfolk Island)
+ca_FR,Catalan (France)
+twq,Tasawaq
+el_CY,Greek (Cyprus)
+es_PH,Spanish (Philippines)
+fr_GQ,French (Equatorial Guinea)
+nb_SJ,Norwegian Bokmål (Svalbard & Jan Mayen)
+nso_ZA,Northern Sotho (South Africa)
+ewo,Ewondo
+pa,Punjabi
+ii,Liangshan Yi
+co,Corsican
+fr_GF,French (French Guiana)
+en_CC,English (Cocos [Keeling] Islands)
+bgc_IN,Haryanvi (India)
+pt_GW,Portuguese (Guinea-Bissau)
+ccp_IN,Chakma (India)
+es_BR,Spanish (Brazil)
+en_TH,English (Thailand)
+mi,Māori
+sv_FI,Swedish (Finland)
+pl_PL,Polish (Poland)
+en_NO,English (Norway)
+nl_BQ,Dutch (Caribbean Netherlands)
+es_PY,Spanish (Paraguay)
+sbp_TZ,Sangu (Tanzania)
+zh_Hant,"Chinese, Traditional"
+wae,Walser
+bo_CN,Tibetan (China mainland)
+en_IN,English (India)
+nl,Dutch
+mk,Macedonian
+en_SB,English (Solomon Islands)
+ar_ER,Arabic (Eritrea)
+brx_IN,Bodo (India)
+pt_CV,Portuguese (Cape Verde)
+tk_TM,Turkmen (Turkmenistan)
+or,Odia
+gsw_CH,Swiss German (Switzerland)
+en_DG,English (Diego Garcia)
+nmg_CM,Kwasio (Cameroon)
+en_GY,English (Guyana)
+so_KE,Somali (Kenya)
+yue_Hans,"Cantonese, Simplified"
+ug,Uyghur
+fur,Friulian
+bs_Latn,Bosnian (Latin)
+su_Latn_ID,"Sundanese (Latin, Indonesia)"
+en_VC,English (St. Vincent & Grenadines)
+kw_GB,Cornish (United Kingdom)
+kpe_GN,Kpelle (Guinea)
+ar_DJ,Arabic (Djibouti)
+scn,Sicilian
+tg_TJ,Tajik (Tajikistan)
+wal,Wolaytta
+it_VA,Italian (Vatican City)
+khq_ML,Koyra Chiini (Mali)
+es_BQ,Spanish (Caribbean Netherlands)
+bs_Latn_BA,"Bosnian (Latin, Bosnia & Herzegovina)"
+ku_TR,Kurdish (Türkiye)
+es_CL,Spanish (Chile)
+es_VC,Spanish (St. Vincent & Grenadines)
+io_001,Ido (world)
+ca_ES,Catalan (Spain)
+mni_Mtei,Manipuri (Meitei Mayek)
+ps,Pashto
+ro_MD,Romanian (Moldova)
+mni,Manipuri
+gez_ET,Geez (Ethiopia)
+ln,Lingala
+kk_KZ,Kazakh (Kazakhstan)
+en_KR,English (South Korea)
+kde_TZ,Makonde (Tanzania)
+fr_MC,French (Monaco)
+teo,Teso
+saq,Samburu
+ln_CF,Lingala (Central African Republic)
+ms_MY,Malay (Malaysia)
+fr_CG,French (Congo - Brazzaville)
+bn_IN,Bangla (India)
+jgo_CM,Ngomba (Cameroon)
+en_150,English (Europe)
+ff_Latn,Fula (Latin)
+mr,Marathi
+ce_RU,Chechen (Russia)
+kea,Kabuverdianu
+ar_SO,Arabic (Somalia)
+es_BS,Spanish (Bahamas)
+sv_AX,Swedish (Åland Islands)
+gaa_GH,Ga (Ghana)
+pt_CH,Portuguese (Switzerland)
+km_KH,Khmer (Cambodia)
+en_IL,English (Israel)
+zh_Hant_CN,"Chinese, Traditional (China mainland)"
+hi_Latn,Hindi (Latin)
+no,Norwegian
+ca,Catalan
+et_EE,Estonian (Estonia)
+ps_PK,Pashto (Pakistan)
+es_AG,Spanish (Antigua & Barbuda)
+bo_IN,Tibetan (India)
+en_001,English (world)
+yue_Hant_HK,"Cantonese, Traditional (Hong Kong)"
+en_MU,English (Mauritius)
+kcg,Tyap
+en_BD,English (Bangladesh)
+ln_AO,Lingala (Angola)
+sr_Cyrl_BA,"Serbian (Cyrillic, Bosnia & Herzegovina)"
+zu_ZA,Zulu (South Africa)
+jv_ID,Javanese (Indonesia)
+dv_MV,Dhivehi (Maldives)
+cs_CZ,Czech (Czechia)
+es_EC,Spanish (Ecuador)
+gez_ER,Geez (Eritrea)
+sq_MK,Albanian (North Macedonia)
+ks_Deva_IN,"Kashmiri (Devanagari, India)"
+mai,Maithili
+nv_US,Navajo (United States)
+hmn_CN,Hmong (China mainland)
+en_TT,English (Trinidad & Tobago)
+raj_IN,Rajasthani (India)
+cic,Chickasaw
+en_PG,English (Papua New Guinea)
+en_FI,English (Finland)
+nnp,Wancho
+nyn_UG,Nyankole (Uganda)
+fa_AF,Persian (Afghanistan)
+byn_ER,Blin (Eritrea)
+hi_Latn_IN,"Hindi (Latin, India)"
+gl,Galician
+fr_NC,French (New Caledonia)
+es_PE,Spanish (Peru)
+de_LI,German (Liechtenstein)
+rej_Rjng,Rejang (Rejang)
+mai_IN,Maithili (India)
+mn,Mongolian
+sat_Olck,Santali (Ol Chiki)
+as,Assamese
+fr_DJ,French (Djibouti)
+pt_FR,Portuguese (France)
+shi,Tachelhit
+bgc,Haryanvi
+myv,Erzya
+sk,Slovak
+id_ID,Indonesian (Indonesia)
+pt_PT,Portuguese (Portugal)
+bem_ZM,Bemba (Zambia)
+sat_Olck_IN,"Santali (Ol Chiki, India)"
+af,Afrikaans
+nl_NL,Dutch (Netherlands)
+ar_SY,Arabic (Syria)
+cy,Welsh
+ur_Arab_PK,"Urdu (Naskh, Pakistan)"
+mk_MK,Macedonian (North Macedonia)
+en_SS,English (South Sudan)
+en_TK,English (Tokelau)
+dyo_SN,Jola-Fonyi (Senegal)
+ee,Ewe
+cs,Czech
+es_BO,Spanish (Bolivia)
+mer,Meru
+hsb_DE,Upper Sorbian (Germany)
+tig_ER,Tigre (Eritrea)
+osa,Osage
+sa_IN,Sanskrit (India)
+ss_SZ,Swati (Eswatini)
+cv,Chuvash
+en_PR,English (Puerto Rico)
+en_UA,English (Ukraine)
+gez,Geez
+en_BR,English (Brazil)
+wa_BE,Walloon (Belgium)
+en_FJ,English (Fiji)
+syr_IQ,Assyrian (Iraq)
+ber_Tfng,Amazigh (Tifinagh)
+rej_ID,Rejang (Indonesia)
+en_SC,English (Seychelles)
+lo_LA,Lao (Laos)
+kkj_CM,Kako (Cameroon)
+fr_RE,French (Réunion)
+en_KY,English (Cayman Islands)
+en_TW,English (Taiwan)
+zh_Hant_MO,"Chinese, Traditional (Macao)"
+arn_CL,Mapuche (Chile)
+ne_NP,Nepali (Nepal)
+hr,Croatian
+es_TT,Spanish (Trinidad & Tobago)
+mzn,Mazanderani
+es_PA,Spanish (Panama)
+ru_KG,Russian (Kyrgyzstan)
+pl,Polish
+ka,Georgian
+en_LR,English (Liberia)
+yrl,Nheengatu
+su_Latn,Sundanese (Latin)
+ar_PS,Arabic (Palestinian Territories)
+az_Cyrl_AZ,"Azerbaijani (Cyrillic, Azerbaijan)"
+ku,Kurdish
+pt_AO,Portuguese (Angola)
+ar_EH,Arabic (Western Sahara)
+es_BZ,Spanish (Belize)
+kln,Kalenjin
+mua,Mundang
+lkt_US,Lakota (United States)
+kn,Kannada
+ps_AF,Pashto (Afghanistan)
+es_CW,Spanish (Curaçao)
+rhg,Rohingya
+kea_CV,Kabuverdianu (Cape Verde)
+wo,Wolof
+ar_DZ,Arabic (Algeria)
+ff_Adlm_CM,"Fula (Adlam, Cameroon)"
+om_KE,Oromo (Kenya)
+syr,Assyrian
+ksf_CM,Bafia (Cameroon)
+gv_IM,Manx (Isle of Man)
+hr_BA,Croatian (Bosnia & Herzegovina)
+pt_BR,Portuguese (Brazil)
+en_SZ,English (Eswatini)
+en_GM,English (Gambia)
+bho_IN,Bhojpuri (India)
+rwk_TZ,Rwa (Tanzania)
+moh_CA,Mohawk (Canada)
+en_ZW,English (Zimbabwe)
+st_ZA,Southern Sotho (South Africa)
+en_BW,English (Botswana)
+zh,Chinese
+fr_TN,French (Tunisia)
+arn,Mapuche
+syr_SY,Assyrian (Syria)
+pt_LU,Portuguese (Luxembourg)
+es_CU,Spanish (Cuba)
+en_PT,English (Portugal)
+en_CY,English (Cyprus)
+apw,"Apache, Western"
+sah,Sakha
+mfe,Morisyen
+ar_OM,Arabic (Oman)
+ff_Latn_GW,"Fula (Latin, Guinea-Bissau)"
+si_LK,Sinhala (Sri Lanka)
+ny_MW,Nyanja (Malawi)
+sat_Deva_IN,"Santali (Devanagari, India)"
+ig,Igbo
+ve,Venda
+chr_US,Cherokee (United States)
+rhg_Rohg,Rohingya (Hanifi)
+bg,Bulgarian
+be_BY,Belarusian (Belarus)
+sg,Sango
+rwk,Rwa
+so_DJ,Somali (Djibouti)
+ses,Koyraboro Senni
+scn_IT,Sicilian (Italy)
+gsw_LI,Swiss German (Liechtenstein)
+mn_MN,Mongolian (Mongolia)
+fr_BE,French (Belgium)
+guz,Gusii
+su,Sundanese
+lag_TZ,Langi (Tanzania)
+fi_FI,Finnish (Finland)
+lag,Langi
+es_TC,Spanish (Turks & Caicos Islands)
+smn_FI,Inari Sami (Finland)
+vi_VN,Vietnamese (Vietnam)
+es_SV,Spanish (El Salvador)
+mgo_CM,Metaʼ (Cameroon)
+en_ZM,English (Zambia)
+raj,Rajasthani
+fur_IT,Friulian (Italy)
+gaa,Ga
+gu,Gujarati
+sc,Sardinian
+ff_Latn_NG,"Fula (Latin, Nigeria)"
+ff_Adlm_MR,"Fula (Adlam, Mauritania)"
+en_IM,English (Isle of Man)
+es_NI,Spanish (Nicaragua)
+en_CZ,English (Czechia)
+en_MT,English (Malta)
+en_FR,English (France)
+fr_PF,French (French Polynesia)
+br_FR,Breton (France)
+trv_TW,Taroko (Taiwan)
+haw_US,Hawaiian (United States)
+mgh,Makhuwa-Meetto
+kaj_NG,Jju (Nigeria)
+en_NR,English (Nauru)
+cho,Choctaw
+en_MG,English (Madagascar)
+ti,Tigrinya
+eu_ES,Basque (Spain)
+pqm_CA,Wolastoqey (Canada)
+bn_BD,Bangla (Bangladesh)
+ar_MR,Arabic (Mauritania)
+en_JP,English (Japan)
+ar_LY,Arabic (Libya)
+sr,Serbian
+uk,Ukrainian
+ca_AD,Catalan (Andorra)
+my,Burmese
+jmc,Machame
+nds,Low German
+khq,Koyra Chiini
+sr_Cyrl_RS,"Serbian (Cyrillic, Serbia)"
+moh,Mohawk
+fa_IR,Persian (Iran)
+es_LC,Spanish (St. Lucia)
+es_VE,Spanish (Venezuela)
+doi_IN,Dogri (India)
+fr_YT,French (Mayotte)
+nus_SS,Nuer (South Sudan)
+kln_KE,Kalenjin (Kenya)
+vai_Vaii_LR,"Vai (Vai, Liberia)"
+vun_TZ,Vunjo (Tanzania)
+ff_Adlm_NG,"Fula (Adlam, Nigeria)"
+ceb,Cebuano
+naq,Nama
+bas,Basaa
+nqo_GN,N’Ko (Guinea)
+ru_KZ,Russian (Kazakhstan)
+ro,Romanian
+es_DO,Spanish (Dominican Republic)
+pa_Arab,Punjabi (Naskh)
+sn,Shona
+bez_TZ,Bena (Tanzania)
+gsw,Swiss German
+ar,Arabic
+agq_CM,Aghem (Cameroon)
+en_CA,English (Canada)
+en_MY,English (Malaysia)
+rhg_Rohg_BD,"Rohingya (Hanifi, Bangladesh)"
+fr_CI,French (Côte d’Ivoire)
+sa,Sanskrit
+yo,Yoruba
+tn,Tswana
+ca_IT,Catalan (Italy)
+en_IE,English (Ireland)
+lv_LV,Latvian (Latvia)
+lrc,Northern Luri
+es_DM,Spanish (Dominica)
+ff_Latn_GN,"Fula (Latin, Guinea)"
+fy,Western Frisian
+nn,Norwegian Nynorsk
+ti_ER,Tigrinya (Eritrea)
+it_IT,Italian (Italy)
+ms_ID,Malay (Indonesia)
+ne_IN,Nepali (India)
+ff_Adlm_GM,"Fula (Adlam, Gambia)"
+es_MX,Spanish (Mexico)
+sr_Latn,Serbian (Latin)
+luy_KE,Luyia (Kenya)
+yue_Hant,"Cantonese, Traditional"
+ar_001,Arabic (world)
+en_BI,English (Burundi)
+ja_JP,Japanese (Japan)
+en_BG,English (Bulgaria)
+dua_CM,Duala (Cameroon)
+nb,Norwegian Bokmål
+es_BM,Spanish (Bermuda)
+es_AR,Spanish (Argentina)
+gd,Scottish Gaelic
+kok,Konkani
+en_IO,English (Chagos Archipelago)
+ff_Adlm_SN,"Fula (Adlam, Senegal)"
+ja,Japanese
+mas,Masai
+ga_IE,Irish (Ireland)
+gd_GB,Scottish Gaelic (United Kingdom)
+mzn_IR,Mazanderani (Iran)
+twq_NE,Tasawaq (Niger)
+ss,Swati
+it,Italian
+so_ET,Somali (Ethiopia)
+ro_RO,Romanian (Romania)
+nnh,Ngiemboon
+fr_GN,French (Guinea)
+sq,Albanian
+ckb,"Kurdish, Sorani"
+mni_Mtei_IN,"Manipuri (Meitei Mayek, India)"
+uz_Cyrl,Uzbek (Cyrillic)
+es_HT,Spanish (Haiti)
+ckb_IQ,"Kurdish, Sorani (Iraq)"
+yi,Yiddish
+en_SD,English (Sudan)
+mi_NZ,Māori (New Zealand)
+en_CH,English (Switzerland)
+gl_ES,Galician (Spain)
+mni_Beng_IN,"Manipuri (Bangla, India)"
+en_MW,English (Malawi)
+nus,Nuer
+en_BE,English (Belgium)
+lb,Luxembourgish
+rof_TZ,Rombo (Tanzania)
+wal_ET,Wolaytta (Ethiopia)
+sd_Arab_PK,"Sindhi (Arabic, Pakistan)"
+dz_BT,Dzongkha (Bhutan)
+sd_Deva_IN,"Sindhi (Devanagari, India)"
+el,Greek
+ts,Tsonga
+uz_Arab,Uzbek (Arabic)
+en_CN,English (China mainland)
+fo,Faroese
+ms_Arab_MY,"Malay (Arabic, Malaysia)"
+ar_SS,Arabic (South Sudan)
+nv,Navajo
+sc_IT,Sardinian (Italy)
+rof,Rombo
+sv_SE,Swedish (Sweden)
+fr_BJ,French (Benin)
+hu_HU,Hungarian (Hungary)
+dyo,Jola-Fonyi
+kl_GL,Kalaallisut (Greenland)
+mid_IQ,Mandaic (Iraq)
+ff_Latn_BF,"Fula (Latin, Burkina Faso)"
+fil_PH,Filipino (Philippines)
+de_BE,German (Belgium)
+vai_Latn,Vai (Latin)
+qu_PE,Quechua (Peru)
+sr_Latn_RS,"Serbian (Latin, Serbia)"
+ee_TG,Ewe (Togo)
+fr,French
+en,English
+tr_TR,Turkish (Türkiye)
+ar_JO,Arabic (Jordan)
+kgp,Kaingang
+fr_VU,French (Vanuatu)
+ia_001,Interlingua (world)
+es_CA,Spanish (Canada)
+sr_Latn_XK,"Serbian (Latin, Kosovo)"
+en_DK,English (Denmark)
+bs,Bosnian
+en_SK,English (Slovakia)
+en_AG,English (Antigua & Barbuda)
+fr_WF,French (Wallis & Futuna)
+pa_Guru_IN,"Punjabi (Gurmukhi, India)"
+is,Icelandic
+ln_CG,Lingala (Congo - Brazzaville)
+my_MM,Burmese (Myanmar [Burma])
+pt,Portuguese
+ar_SD,Arabic (Sudan)
+ber_Latn_MA,"Amazigh (Latin, Morocco)"
+om_ET,Oromo (Ethiopia)
+sah_RU,Sakha (Russia)
+en_CL,English (Chile)
+xog,Soga
+ff_Adlm,Fula (Adlam)
+shi_Tfng_MA,"Tachelhit (Tifinagh, Morocco)"
+ka_GE,Georgian (Georgia)
+eo,Esperanto
+dua,Duala
+ti_ET,Tigrinya (Ethiopia)
+shi_Latn,Tachelhit (Latin)
+bo,Tibetan
+fr_ML,French (Mali)
+fr_GA,French (Gabon)
+fr_CH,French (Switzerland)
+co_FR,Corsican (France)
+to,Tongan
+fr_TD,French (Chad)
+ha_NE,Hausa (Niger)
+ar_SA,Arabic (Saudi Arabia)
+lkt,Lakota
+en_HK,English (Hong Kong)
